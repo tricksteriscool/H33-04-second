@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url("../images/bg_mono.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: #305e70;
+    font-size: 80px;
+    margin-top: 30px;
+}
+
+.content{
+    background-color: rgba(225, 225, 246, 0.6);
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+}
+
+.back{
+    font-size: 24px;
+    background-color: rgba(225,255,246,0.6);
+    display: inline-block;
+    color: black;
+    border: #408d8d 4px solid;
+    margin: auto;
+    margin-top:20px;
+    text-decoration: none;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.back:hover{
+    color: white;
+    background-color: #305E70;
+    border: #305E70 4px solid;
+}
+
+.menu{
+    display: inline-block;
+    margin: 40px;
+    background-color: rgba(225,255,246,0.5) ;
+    border-radius: 5px;
+}
+
+.menu:hover{
+    background-color: rgba(225,255,246,0.9) ;
+}
