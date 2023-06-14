@@ -25,7 +25,3 @@ h1 {
 .button:hover {
     opacity: 0.75;
 }
-
-.new-quote-button {
-    float: right;
-  }
